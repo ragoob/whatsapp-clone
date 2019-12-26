@@ -6,7 +6,7 @@ clone some whats app features
 - Last seen 
 
 ### Technologies :
-- Nodejs BackEnd
+- Nodejs / nest js framework  BackEnd 
 - nextjs FrontEnd
 - Redis in memory db 
 - RabbitMQ Message bus
