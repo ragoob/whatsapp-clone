@@ -1,0 +1,10 @@
+<h1>
+  Recived messages
+</h1>
+
+<ul>
+  <li *ngFor="let item of messages$ | async">
+    {{item}}
+  </li>
+</ul>
+<router-outlet></router-outlet>
